@@ -1,0 +1,39 @@
+C:\Users\Valdas\Desktop\Linas\Uni\IT\C#\Apps\Extra\Fabric\bin\Debug\Fabric.exe.config
+C:\Users\Valdas\Desktop\Linas\Uni\IT\C#\Apps\Extra\Fabric\bin\Debug\Fabric.exe
+C:\Users\Valdas\Desktop\Linas\Uni\IT\C#\Apps\Extra\Fabric\bin\Debug\Fabric.pdb
+C:\Users\Valdas\Desktop\Linas\Uni\IT\C#\Apps\Extra\Fabric\obj\Debug\Fabric.csprojAssemblyReference.cache
+C:\Users\Valdas\Desktop\Linas\Uni\IT\C#\Apps\Extra\Fabric\obj\Debug\Fabric.Form1.resources
+C:\Users\Valdas\Desktop\Linas\Uni\IT\C#\Apps\Extra\Fabric\obj\Debug\Fabric.Properties.Resources.resources
+C:\Users\Valdas\Desktop\Linas\Uni\IT\C#\Apps\Extra\Fabric\obj\Debug\Fabric.csproj.GenerateResource.cache
+C:\Users\Valdas\Desktop\Linas\Uni\IT\C#\Apps\Extra\Fabric\obj\Debug\Fabric.csproj.CoreCompileInputs.cache
+C:\Users\Valdas\Desktop\Linas\Uni\IT\C#\Apps\Extra\Fabric\obj\Debug\Fabric.exe
+C:\Users\Valdas\Desktop\Linas\Uni\IT\C#\Apps\Extra\Fabric\obj\Debug\Fabric.pdb
+C:\Users\Valdas\Desktop\Linas\Uni\IT\C#\Apps\Extra\Fabric - Copy\bin\Debug\Fabric.exe.config
+C:\Users\Valdas\Desktop\Linas\Uni\IT\C#\Apps\Extra\Fabric - Copy\bin\Debug\Fabric.exe
+C:\Users\Valdas\Desktop\Linas\Uni\IT\C#\Apps\Extra\Fabric - Copy\bin\Debug\Fabric.pdb
+C:\Users\Valdas\Desktop\Linas\Uni\IT\C#\Apps\Extra\Fabric - Copy\obj\Debug\Fabric.csprojAssemblyReference.cache
+C:\Users\Valdas\Desktop\Linas\Uni\IT\C#\Apps\Extra\Fabric - Copy\obj\Debug\Fabric.Form1.resources
+C:\Users\Valdas\Desktop\Linas\Uni\IT\C#\Apps\Extra\Fabric - Copy\obj\Debug\Fabric.Properties.Resources.resources
+C:\Users\Valdas\Desktop\Linas\Uni\IT\C#\Apps\Extra\Fabric - Copy\obj\Debug\Fabric.csproj.GenerateResource.cache
+C:\Users\Valdas\Desktop\Linas\Uni\IT\C#\Apps\Extra\Fabric - Copy\obj\Debug\Fabric.csproj.CoreCompileInputs.cache
+C:\Users\Valdas\Desktop\Linas\Uni\IT\C#\Apps\Extra\Fabric - Copy\obj\Debug\Fabric.exe
+C:\Users\Valdas\Desktop\Linas\Uni\IT\C#\Apps\Extra\Fabric - Copy\obj\Debug\Fabric.pdb
+C:\Users\Valdas\Desktop\Linas\Uni\IT\C#\Apps\Extra\Fabric - Copy (2)\bin\Debug\Fabric.exe.config
+C:\Users\Valdas\Desktop\Linas\Uni\IT\C#\Apps\Extra\Fabric - Copy (2)\bin\Debug\Fabric.exe
+C:\Users\Valdas\Desktop\Linas\Uni\IT\C#\Apps\Extra\Fabric - Copy (2)\bin\Debug\Fabric.pdb
+C:\Users\Valdas\Desktop\Linas\Uni\IT\C#\Apps\Extra\Fabric - Copy (2)\obj\Debug\Fabric.csprojAssemblyReference.cache
+C:\Users\Valdas\Desktop\Linas\Uni\IT\C#\Apps\Extra\Fabric - Copy (2)\obj\Debug\Fabric.Form1.resources
+C:\Users\Valdas\Desktop\Linas\Uni\IT\C#\Apps\Extra\Fabric - Copy (2)\obj\Debug\Fabric.Properties.Resources.resources
+C:\Users\Valdas\Desktop\Linas\Uni\IT\C#\Apps\Extra\Fabric - Copy (2)\obj\Debug\Fabric.csproj.GenerateResource.cache
+C:\Users\Valdas\Desktop\Linas\Uni\IT\C#\Apps\Extra\Fabric - Copy (2)\obj\Debug\Fabric.csproj.CoreCompileInputs.cache
+C:\Users\Valdas\Desktop\Linas\Uni\IT\C#\Apps\Extra\Fabric - Copy (2)\obj\Debug\Fabric.exe
+C:\Users\Valdas\Desktop\Linas\Uni\IT\C#\Apps\Extra\Fabric - Copy (2)\obj\Debug\Fabric.pdb
+C:\Users\Valdas\Desktop\Linas\Uni\IT\C#\Apps\Extra\Fabric - Copy (2)\bin\Debug\MathNet.Numerics.dll
+C:\Users\Valdas\Desktop\Linas\Uni\IT\C#\Apps\Extra\Fabric - Copy (2)\bin\Debug\MathNet.Numerics.xml
+C:\Users\Valdas\Desktop\Linas\Uni\IT\C#\Apps\Extra\Fabric - Copy (2)\obj\Debug\Fabric.csproj.CopyComplete
+C:\Users\Valdas\Desktop\Linas\Uni\IT\C#\Apps\Extra\Fabric\bin\Debug\MathNet.Numerics.dll
+C:\Users\Valdas\Desktop\Linas\Uni\IT\C#\Apps\Extra\Fabric\bin\Debug\MathNet.Numerics.xml
+C:\Users\Valdas\Desktop\Linas\Uni\IT\C#\Apps\Extra\Fabric\obj\Debug\Fabric.csproj.CopyComplete
+C:\Users\Valdas\Desktop\Linas\Uni\IT\C#\Apps\Extra\Fabric - Copy\bin\Debug\MathNet.Numerics.dll
+C:\Users\Valdas\Desktop\Linas\Uni\IT\C#\Apps\Extra\Fabric - Copy\bin\Debug\MathNet.Numerics.xml
+C:\Users\Valdas\Desktop\Linas\Uni\IT\C#\Apps\Extra\Fabric - Copy\obj\Debug\Fabric.csproj.CopyComplete
